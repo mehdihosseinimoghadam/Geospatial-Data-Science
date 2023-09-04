@@ -1,5 +1,5 @@
 
-# Flutter Introduction Page <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" height="40" width="40" > <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" width="40" >
+# Flutter Introduction Page <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" width="40" > <img src="https://vtlogo.com/wp-content/uploads/2020/06/kepler-gl-vector-logo.png" height="40" width="40" >
 
 
 
@@ -12,11 +12,12 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
 
 # Used Packages
 ```sh
-  cupertino_icons: ^1.0.2
-  introduction_screen: ^3.1.6
-  flutter_onboarding_slider: ^1.0.8
-  animated_splash_screen: ^1.3.0
-  lottie: ^2.2.0
+%pip install geocoder
+%pip install leafmap
+%pip install keplergl
+%pip install geopandas
+%pip install shapely
+%pip install polyline shapely
 ```
 
 <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ewb5SbcyeKs)
