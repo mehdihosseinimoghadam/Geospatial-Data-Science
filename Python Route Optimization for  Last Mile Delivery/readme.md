@@ -4,6 +4,7 @@
 
 
 
+![Alt Text](https://github.com/mehdihosseinimoghadam/Geospatial-Data-Science/blob/main/Python%20Route%20Optimization%20for%20%20Last%20Mile%20Delivery/Untitled.png)
 
 
 ## Description
@@ -68,4 +69,3 @@ Kepler.gl Documentation: https://docs.kepler.gl/docs/keplergl-jupyter
 
 
 
-![Alt Text](https://github.com/mehdihosseinimoghadam/Geospatial-Data-Science/blob/main/Python%20Route%20Optimization%20for%20%20Last%20Mile%20Delivery/Untitled.png)
